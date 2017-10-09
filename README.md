@@ -1,4 +1,6 @@
 # [Skeleton](http://getskeleton.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSkeleton.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSkeleton?ref=badge_shield)
+
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
 Check out <http://getskeleton.com> for documentation and details.
@@ -48,6 +50,9 @@ The above list is non-exhaustive. Skeleton works perfectly with almost all older
 
 All parts of Skeleton are free to use and abuse under the [open-source MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSkeleton.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSkeleton?ref=badge_large)
 
 ## Extensions
 
